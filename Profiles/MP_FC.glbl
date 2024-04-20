@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>MP_FC</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://fc-ng-qa-pwa.ivyretailassist.com/'</initValue>
+      <name>PWA_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qadb-postgres13-ivydev01-in.cgmzbgnryhj7.ap-south-1.rds.amazonaws.com'</initValue>
+      <name>Host</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5432'</initValue>
+      <name>Port</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ivyretailassist_fcnigeria_qa_qauser'</initValue>
+      <name>DB_Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ivyretasstfcnigeriaqauser02341*23'</initValue>
+      <name>DB_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ivyretailassist_fcnigeria_qa'</initValue>
+      <name>DB_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5'</initValue>
+      <name>DB_SRID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "989BEAB125A23445204B4B299E4C8EDB",
+  "keywordClasses": [
+    {
+      "name": "not_Onboarded_Retailer.NonOnboardedRetailer",
+      "keywordMethods": [
+        {
+          "name": "DBLogin",
+          "parameters": [
+            {
+              "name": "ID",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

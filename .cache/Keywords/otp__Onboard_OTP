@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "BCC81B298C16A15A61E5BA0E3DCAFB01",
+  "keywordClasses": [
+    {
+      "name": "otp.Onboard_OTP",
+      "keywordMethods": [
+        {
+          "name": "DBLogin",
+          "parameters": [
+            {
+              "name": "LoginID",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
